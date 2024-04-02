@@ -1,11 +1,11 @@
 {
-    "name": "Aladdine Abdou",
-    "description": "Développeur Mobile",
-    "subDescription": "Passionné par Flutter & Python",
+    "name": "Lucas Lion",
+    "description": "Développeur Web/Mobile",
+    "subDescription": "",
     "contacts": [
         {
             "tooltip": "Github",
-            "url": "https://github.com/AladdineDev",
+            "url": "https://github.com/lucaslion",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -14,7 +14,7 @@
         },
         {
             "tooltip": "Twitter",
-            "url": "https://twitter.com/AladdineDev",
+            "url": "https://twitter.com/lucaslion",
             "icon": {
                 "codePoint": "0xf0ea",
                 "fontFamily": "FontAwesome",
@@ -23,7 +23,7 @@
         },
         {
             "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/aladdine-dev",
+            "url": "https://www.linkedin.com/in/lucas-lion-b7891382/",
             "icon": {
                 "codePoint": "0xeffb",
                 "fontFamily": "FontAwesome",
@@ -31,8 +31,8 @@
             }
         },
         {
-            "tooltip": "aladdine.abdou@gmail.com",
-            "url": "mailto:aladdine.abdou@gmail.com",
+            "tooltip": "lucaslion7.abdou@gmail.com",
+            "url": "mailto:lucaslion7.abdou@gmail.com",
             "icon": {
                 "codePoint": "0xeaad",
                 "fontFamily": "FontAwesome",
@@ -40,8 +40,8 @@
             }
         },
         {
-            "tooltip": "+33 7 82 54 34 70",
-            "url": "tel:+33782543470",
+            "tooltip": "+33 6 88 55 398 77",
+            "url": "tel:+33688559877",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome",
@@ -59,7 +59,7 @@
             "url": "https://drive.google.com/file/d/13t62MynE9GavlyrtHNM1ShdkdJT0bc0B/view?usp=sharing"
         }
     ],
-    "aboutDescription": "Salut ! Je m'appelle Aladdine, et je suis apprenti développeur en quatrième année de Mobilité et Objets Connectés à l'ESGI Paris. Passionné par l'écosystème mobile, je combine mes études et mon expérience professionnelle pour créer des applications intuitives et riches en fonctionnalités.\nJ'aspire à mettre mes compétences au service de projets inspirants et challengeant.",
+    "aboutDescription": "Salut ! Je m'appelle Lucas, et je suis apprenti développeur. Passionné par l'écosystème mobile, je combine mes études et mon expérience professionnelle pour créer des applications intuitives et riches en fonctionnalités.\nJ'aspire à mettre mes compétences au service de projets inspirants et challengeant.",
     "experiences": [
         {
             "role": "Développeur Mobile",
